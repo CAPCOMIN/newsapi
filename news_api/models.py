@@ -17,7 +17,7 @@ class user(models.Model):
 
 
 class newsdetail(models.Model):
-    news_id = models.AutoField(primary_key=True)
+    news_id = models.IntegerField(primary_key=True)
     url = models.CharField(max_length=100)
     title = models.CharField(max_length=50)
     date = models.CharField(max_length=30)

@@ -46,13 +46,13 @@ def beginAnalysisSystem(time):
     sched2.add_job(beginSelectKeyWord, trigger='interval', max_instances=1, seconds=int(time),
                   id='beginSelectKeyWord',
                   kwargs={"_type": 2})
-    sched2.add_job(beginCalHotValue, 'interval', max_instances=1, seconds=int(time),
-                  id='beginCalHotValue',
-                  kwargs={})
-    sched2.add_job(beginCorrelation, 'interval', max_instances=1, seconds=int(time), id='beginCorrelation',
-                  kwargs={})
-    sched2.add_job(beginHotWordLibrary, 'interval', max_instances=1, seconds=int(time), id='beginHotWordLibrary',
-                  kwargs={})
+    # sched2.add_job(beginCalHotValue, 'interval', max_instances=1, seconds=int(time),
+    #               id='beginCalHotValue',
+    #               kwargs={})
+    # sched2.add_job(beginCorrelation, 'interval', max_instances=1, seconds=int(time), id='beginCorrelation',
+    #               kwargs={})
+    # sched2.add_job(beginHotWordLibrary, 'interval', max_instances=1, seconds=int(time), id='beginHotWordLibrary',
+    #               kwargs={})
     sched2.start()
 
 def stopAnalysisSystem():

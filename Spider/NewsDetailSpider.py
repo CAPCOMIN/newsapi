@@ -54,7 +54,11 @@ def getnewsdetail(url):
     comments = requests.get(commentApi)
     comments.encoding = 'utf-8'
     jd = json.loads(comments.text.strip('var data='))  # 移除改var data=将其变为json数据
-    commentNum = jd['result']['count']['total']
+    commentNum = 0
+    try:
+        commentNum = jd['result']['count']['total']
+    except Exception as e:
+        print("json.loads error", str(e))
 
     news = {'mainpage': mainpage,
             'pic_url': pic_url,
