@@ -1,0 +1,360 @@
+2022-06-04 11:18:03,609 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2926, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,635 - ERROR   - rollback£º2926
+2022-06-04 11:18:03,636 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2928, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,637 - ERROR   - rollback£º2928
+2022-06-04 11:18:03,638 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2939, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,691 - ERROR   - rollback£º2939
+2022-06-04 11:18:03,706 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2930, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,707 - ERROR   - rollback£º2930
+2022-06-04 11:18:03,708 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2931, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,710 - ERROR   - rollback£º2931
+2022-06-04 11:18:03,711 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2934, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,712 - ERROR   - rollback£º2934
+2022-06-04 11:18:03,712 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2929, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,717 - ERROR   - rollback£º2929
+2022-06-04 11:18:03,718 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2935, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,723 - ERROR   - rollback£º2935
+2022-06-04 11:18:03,725 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2925, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,725 - ERROR   - rollback£º2925
+2022-06-04 11:18:03,726 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2933, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,727 - ERROR   - rollback£º2933
+2022-06-04 11:18:03,740 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2932, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,742 - ERROR   - rollback£º2932
+2022-06-04 11:18:03,744 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2944, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,746 - ERROR   - rollback£º2944
+2022-06-04 11:18:03,747 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2936, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,748 - ERROR   - rollback£º2936
+2022-06-04 11:18:03,748 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2937, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,749 - ERROR   - rollback£º2937
+2022-06-04 11:18:03,770 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2927, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,772 - ERROR   - rollback£º2927
+2022-06-04 11:18:03,773 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2924, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,773 - ERROR   - rollback£º2924
+2022-06-04 11:18:03,774 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2942, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,775 - ERROR   - rollback£º2942
+2022-06-04 11:18:03,776 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2943, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,777 - ERROR   - rollback£º2943
+2022-06-04 11:18:03,788 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2938, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,790 - ERROR   - rollback£º2938
+2022-06-04 11:18:03,791 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (10010, 2923, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,792 - ERROR   - rollback£º2923
+2022-06-04 11:18:03,793 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2926, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,794 - ERROR   - rollback£º2926
+2022-06-04 11:18:03,795 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2928, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,796 - ERROR   - rollback£º2928
+2022-06-04 11:18:03,796 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2939, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,797 - ERROR   - rollback£º2939
+2022-06-04 11:18:03,803 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2930, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,804 - ERROR   - rollback£º2930
+2022-06-04 11:18:03,812 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2931, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,865 - ERROR   - rollback£º2931
+2022-06-04 11:18:03,869 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2934, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,870 - ERROR   - rollback£º2934
+2022-06-04 11:18:03,887 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2929, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,888 - ERROR   - rollback£º2929
+2022-06-04 11:18:03,889 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2935, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,891 - ERROR   - rollback£º2935
+2022-06-04 11:18:03,893 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2925, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,895 - ERROR   - rollback£º2925
+2022-06-04 11:18:03,895 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2933, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,896 - ERROR   - rollback£º2933
+2022-06-04 11:18:03,908 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2932, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,912 - ERROR   - rollback£º2932
+2022-06-04 11:18:03,913 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2944, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,915 - ERROR   - rollback£º2944
+2022-06-04 11:18:03,917 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2936, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,931 - ERROR   - rollback£º2936
+2022-06-04 11:18:03,945 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2937, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,948 - ERROR   - rollback£º2937
+2022-06-04 11:18:03,950 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2927, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,966 - ERROR   - rollback£º2927
+2022-06-04 11:18:03,971 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2924, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,979 - ERROR   - rollback£º2924
+2022-06-04 11:18:03,980 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2942, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:03,985 - ERROR   - rollback£º2942
+2022-06-04 11:18:03,998 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2943, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,001 - ERROR   - rollback£º2943
+2022-06-04 11:18:04,005 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2938, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,007 - ERROR   - rollback£º2938
+2022-06-04 11:18:04,012 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100000, 2923, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,014 - ERROR   - rollback£º2923
+2022-06-04 11:18:04,015 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2926, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,021 - ERROR   - rollback£º2926
+2022-06-04 11:18:04,021 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2928, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,051 - ERROR   - rollback£º2928
+2022-06-04 11:18:04,096 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2939, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,097 - ERROR   - rollback£º2939
+2022-06-04 11:18:04,098 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2930, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,100 - ERROR   - rollback£º2930
+2022-06-04 11:18:04,102 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2931, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,136 - ERROR   - rollback£º2931
+2022-06-04 11:18:04,139 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2934, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,140 - ERROR   - rollback£º2934
+2022-06-04 11:18:04,141 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2929, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,162 - ERROR   - rollback£º2929
+2022-06-04 11:18:04,171 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2935, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,173 - ERROR   - rollback£º2935
+2022-06-04 11:18:04,174 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2925, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,175 - ERROR   - rollback£º2925
+2022-06-04 11:18:04,176 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2933, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,176 - ERROR   - rollback£º2933
+2022-06-04 11:18:04,177 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2932, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,189 - ERROR   - rollback£º2932
+2022-06-04 11:18:04,191 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2944, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,191 - ERROR   - rollback£º2944
+2022-06-04 11:18:04,194 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2936, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,194 - ERROR   - rollback£º2936
+2022-06-04 11:18:04,224 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2937, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,225 - ERROR   - rollback£º2937
+2022-06-04 11:18:04,227 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2927, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,228 - ERROR   - rollback£º2927
+2022-06-04 11:18:04,229 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2924, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,232 - ERROR   - rollback£º2924
+2022-06-04 11:18:04,234 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2942, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,235 - ERROR   - rollback£º2942
+2022-06-04 11:18:04,243 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2943, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,244 - ERROR   - rollback£º2943
+2022-06-04 11:18:04,245 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2938, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,246 - ERROR   - rollback£º2938
+2022-06-04 11:18:04,247 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100001, 2923, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,257 - ERROR   - rollback£º2923
+2022-06-04 11:18:04,258 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2926, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,258 - ERROR   - rollback£º2926
+2022-06-04 11:18:04,259 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2928, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,261 - ERROR   - rollback£º2928
+2022-06-04 11:18:04,263 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2939, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,309 - ERROR   - rollback£º2939
+2022-06-04 11:18:04,310 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2930, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,311 - ERROR   - rollback£º2930
+2022-06-04 11:18:04,313 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2931, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,316 - ERROR   - rollback£º2931
+2022-06-04 11:18:04,334 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2934, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,335 - ERROR   - rollback£º2934
+2022-06-04 11:18:04,350 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2929, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,352 - ERROR   - rollback£º2929
+2022-06-04 11:18:04,353 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2935, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,354 - ERROR   - rollback£º2935
+2022-06-04 11:18:04,355 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2925, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,356 - ERROR   - rollback£º2925
+2022-06-04 11:18:04,376 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2933, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,377 - ERROR   - rollback£º2933
+2022-06-04 11:18:04,378 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2932, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,380 - ERROR   - rollback£º2932
+2022-06-04 11:18:04,381 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2944, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,397 - ERROR   - rollback£º2944
+2022-06-04 11:18:04,399 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2936, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,401 - ERROR   - rollback£º2936
+2022-06-04 11:18:04,417 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2937, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,419 - ERROR   - rollback£º2937
+2022-06-04 11:18:04,420 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2927, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,421 - ERROR   - rollback£º2927
+2022-06-04 11:18:04,422 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2924, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,423 - ERROR   - rollback£º2924
+2022-06-04 11:18:04,447 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2942, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,520 - ERROR   - rollback£º2942
+2022-06-04 11:18:04,522 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2943, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,524 - ERROR   - rollback£º2943
+2022-06-04 11:18:04,524 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2938, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,525 - ERROR   - rollback£º2938
+2022-06-04 11:18:04,526 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100002, 2923, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,527 - ERROR   - rollback£º2923
+2022-06-04 11:18:04,527 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2926, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,557 - ERROR   - rollback£º2926
+2022-06-04 11:18:04,571 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2928, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,572 - ERROR   - rollback£º2928
+2022-06-04 11:18:04,574 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2939, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,575 - ERROR   - rollback£º2939
+2022-06-04 11:18:04,575 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2930, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,575 - ERROR   - rollback£º2930
+2022-06-04 11:18:04,592 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2931, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,594 - ERROR   - rollback£º2931
+2022-06-04 11:18:04,618 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2934, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,620 - ERROR   - rollback£º2934
+2022-06-04 11:18:04,621 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2929, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,622 - ERROR   - rollback£º2929
+2022-06-04 11:18:04,623 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2935, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,624 - ERROR   - rollback£º2935
+2022-06-04 11:18:04,643 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2925, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,644 - ERROR   - rollback£º2925
+2022-06-04 11:18:04,646 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2933, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,646 - ERROR   - rollback£º2933
+2022-06-04 11:18:04,647 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2932, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,647 - ERROR   - rollback£º2932
+2022-06-04 11:18:04,648 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2944, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,654 - ERROR   - rollback£º2944
+2022-06-04 11:18:04,695 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2936, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,697 - ERROR   - rollback£º2936
+2022-06-04 11:18:04,698 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2937, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,698 - ERROR   - rollback£º2937
+2022-06-04 11:18:04,699 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2927, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,701 - ERROR   - rollback£º2927
+2022-06-04 11:18:04,702 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2924, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,734 - ERROR   - rollback£º2924
+2022-06-04 11:18:04,735 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2942, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,737 - ERROR   - rollback£º2942
+2022-06-04 11:18:04,738 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2943, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,739 - ERROR   - rollback£º2943
+2022-06-04 11:18:04,741 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2938, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,747 - ERROR   - rollback£º2938
+2022-06-04 11:18:04,748 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100004, 2923, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,750 - ERROR   - rollback£º2923
+2022-06-04 11:18:04,752 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2926, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,776 - ERROR   - rollback£º2926
+2022-06-04 11:18:04,780 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2928, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,784 - ERROR   - rollback£º2928
+2022-06-04 11:18:04,786 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2939, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,789 - ERROR   - rollback£º2939
+2022-06-04 11:18:04,793 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2930, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,794 - ERROR   - rollback£º2930
+2022-06-04 11:18:04,801 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2931, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,803 - ERROR   - rollback£º2931
+2022-06-04 11:18:04,804 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2934, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,806 - ERROR   - rollback£º2934
+2022-06-04 11:18:04,807 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2929, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,808 - ERROR   - rollback£º2929
+2022-06-04 11:18:04,808 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2935, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,825 - ERROR   - rollback£º2935
+2022-06-04 11:18:04,833 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2925, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,853 - ERROR   - rollback£º2925
+2022-06-04 11:18:04,855 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2933, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,856 - ERROR   - rollback£º2933
+2022-06-04 11:18:04,857 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2932, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,859 - ERROR   - rollback£º2932
+2022-06-04 11:18:04,860 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2944, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,860 - ERROR   - rollback£º2944
+2022-06-04 11:18:04,861 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2936, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,925 - ERROR   - rollback£º2936
+2022-06-04 11:18:04,926 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2937, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,929 - ERROR   - rollback£º2937
+2022-06-04 11:18:04,946 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2927, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,947 - ERROR   - rollback£º2927
+2022-06-04 11:18:04,948 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2924, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,952 - ERROR   - rollback£º2924
+2022-06-04 11:18:04,952 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2942, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:04,986 - ERROR   - rollback£º2942
+2022-06-04 11:18:04,997 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2943, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,075 - ERROR   - rollback£º2943
+2022-06-04 11:18:05,080 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2938, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,097 - ERROR   - rollback£º2938
+2022-06-04 11:18:05,114 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100005, 2923, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,120 - ERROR   - rollback£º2923
+2022-06-04 11:18:05,138 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2926, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,139 - ERROR   - rollback£º2926
+2022-06-04 11:18:05,140 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2928, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,140 - ERROR   - rollback£º2928
+2022-06-04 11:18:05,141 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2939, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,142 - ERROR   - rollback£º2939
+2022-06-04 11:18:05,156 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2930, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,157 - ERROR   - rollback£º2930
+2022-06-04 11:18:05,176 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2931, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,177 - ERROR   - rollback£º2931
+2022-06-04 11:18:05,187 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2934, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,235 - ERROR   - rollback£º2934
+2022-06-04 11:18:05,237 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2929, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,239 - ERROR   - rollback£º2929
+2022-06-04 11:18:05,251 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2935, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,253 - ERROR   - rollback£º2935
+2022-06-04 11:18:05,268 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2925, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,303 - ERROR   - rollback£º2925
+2022-06-04 11:18:05,305 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2933, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,306 - ERROR   - rollback£º2933
+2022-06-04 11:18:05,316 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2932, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,316 - ERROR   - rollback£º2932
+2022-06-04 11:18:05,332 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2944, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,333 - ERROR   - rollback£º2944
+2022-06-04 11:18:05,348 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2936, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,365 - ERROR   - rollback£º2936
+2022-06-04 11:18:05,366 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2937, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,378 - ERROR   - rollback£º2937
+2022-06-04 11:18:05,378 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2927, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,394 - ERROR   - rollback£º2927
+2022-06-04 11:18:05,394 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2924, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,411 - ERROR   - rollback£º2924
+2022-06-04 11:18:05,412 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2942, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,425 - ERROR   - rollback£º2942
+2022-06-04 11:18:05,440 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2943, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,441 - ERROR   - rollback£º2943
+2022-06-04 11:18:05,457 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2938, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,473 - ERROR   - rollback£º2938
+2022-06-04 11:18:05,473 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (100006, 2923, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,488 - ERROR   - rollback£º2923
+2022-06-04 11:18:05,507 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2926, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,520 - ERROR   - rollback£º2926
+2022-06-04 11:18:05,534 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2928, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,535 - ERROR   - rollback£º2928
+2022-06-04 11:18:05,551 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2939, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,551 - ERROR   - rollback£º2939
+2022-06-04 11:18:05,566 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2930, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,581 - ERROR   - rollback£º2930
+2022-06-04 11:18:05,581 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2931, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,598 - ERROR   - rollback£º2931
+2022-06-04 11:18:05,599 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2934, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,613 - ERROR   - rollback£º2934
+2022-06-04 11:18:05,628 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2929, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,645 - ERROR   - rollback£º2929
+2022-06-04 11:18:05,660 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2935, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,661 - ERROR   - rollback£º2935
+2022-06-04 11:18:05,676 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2925, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,691 - ERROR   - rollback£º2925
+2022-06-04 11:18:05,708 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2933, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,727 - ERROR   - rollback£º2933
+2022-06-04 11:18:05,739 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2932, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,739 - ERROR   - rollback£º2932
+2022-06-04 11:18:05,755 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2944, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,755 - ERROR   - rollback£º2944
+2022-06-04 11:18:05,769 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2936, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,786 - ERROR   - rollback£º2936
+2022-06-04 11:18:05,802 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2937, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,803 - ERROR   - rollback£º2937
+2022-06-04 11:18:05,819 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2927, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,833 - ERROR   - rollback£º2927
+2022-06-04 11:18:05,849 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2924, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,850 - ERROR   - rollback£º2924
+2022-06-04 11:18:05,870 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2942, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,881 - ERROR   - rollback£º2942
+2022-06-04 11:18:05,882 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2943, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,898 - ERROR   - rollback£º2943
+2022-06-04 11:18:05,959 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2938, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,979 - ERROR   - rollback£º2938
+2022-06-04 11:18:05,980 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (110124, 2923, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:05,992 - ERROR   - rollback£º2923
+2022-06-04 11:18:06,037 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2926, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,083 - ERROR   - rollback£º2926
+2022-06-04 11:18:06,096 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2928, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,110 - ERROR   - rollback£º2928
+2022-06-04 11:18:06,112 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2939, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,112 - ERROR   - rollback£º2939
+2022-06-04 11:18:06,113 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2930, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,113 - ERROR   - rollback£º2930
+2022-06-04 11:18:06,113 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2931, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,123 - ERROR   - rollback£º2931
+2022-06-04 11:18:06,124 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2934, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,124 - ERROR   - rollback£º2934
+2022-06-04 11:18:06,125 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2929, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,126 - ERROR   - rollback£º2929
+2022-06-04 11:18:06,126 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2935, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,130 - ERROR   - rollback£º2935
+2022-06-04 11:18:06,131 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2925, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,131 - ERROR   - rollback£º2925
+2022-06-04 11:18:06,132 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2933, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,132 - ERROR   - rollback£º2933
+2022-06-04 11:18:06,142 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2932, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,143 - ERROR   - rollback£º2932
+2022-06-04 11:18:06,144 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2944, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,145 - ERROR   - rollback£º2944
+2022-06-04 11:18:06,166 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2936, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,168 - ERROR   - rollback£º2936
+2022-06-04 11:18:06,168 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2937, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,169 - ERROR   - rollback£º2937
+2022-06-04 11:18:06,170 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2927, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,170 - ERROR   - rollback£º2927
+2022-06-04 11:18:06,170 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2924, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,171 - ERROR   - rollback£º2924
+2022-06-04 11:18:06,171 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2942, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,181 - ERROR   - rollback£º2942
+2022-06-04 11:18:06,181 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2943, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,200 - ERROR   - rollback£º2943
+2022-06-04 11:18:06,201 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2938, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,214 - ERROR   - rollback£º2938
+2022-06-04 11:18:06,215 - INFO    - sql_w£ºinsert into news_api_recommend(userid, newsid, hadread, cor, species, time) values (1000010, 2923, 0, 1.00, 2, '2022-06-04')
+2022-06-04 11:18:06,216 - ERROR   - rollback£º2923
